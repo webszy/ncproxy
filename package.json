@@ -1,0 +1,25 @@
+{
+  "name": "ncproxy",
+  "version": "1.0.0",
+  "description": "proxy settings for npm config",
+  "main": "index.js",
+  "type": "commonjs",
+  "repository": {
+    "url": "https://github.com/webszy/ncproxy.git"
+  },
+  "bugs": {
+    "url": "https://github.com/webszy/ncproxy/issues"
+  },
+  "bin": {
+    "ncproxy": "index.js"
+  },
+
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "18",
+    "chalk": "4.1.2",
+    "commander": "^11.1.0"
+  }
+}
