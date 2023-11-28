@@ -1,7 +1,7 @@
 {
   "name": "ncproxy",
   "version": "1.0.0",
-  "description": "proxy settings for npm config",
+  "description": "A CLI for manage npm proxy config",
   "main": "index.js",
   "type": "commonjs",
   "repository": {
